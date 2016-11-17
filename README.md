@@ -8,5 +8,5 @@ Syntax highlighting for your Bohrium byte-code.
 ### Install
 
 ```bash
-pip install bohrium_lexer
+pip install Bohrium-Pygments-Lexer
 ```
